@@ -1,0 +1,5 @@
+{
+    "cmake.sourceDirectory": "C:/Projectilizer/projectilizer/linux",
+    "cmake.configureOnOpen": true,
+    "C_Cpp.errorSquiggles": "disabled"
+}
